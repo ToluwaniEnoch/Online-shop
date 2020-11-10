@@ -1,0 +1,12 @@
+C:\Users\Tboy\source\repos\shop\Shop.Domain\bin\Debug\netcoreapp3.1\Shop.Domain.deps.json
+C:\Users\Tboy\source\repos\shop\Shop.Domain\bin\Debug\netcoreapp3.1\Shop.Domain.dll
+C:\Users\Tboy\source\repos\shop\Shop.Domain\bin\Debug\netcoreapp3.1\Shop.Domain.pdb
+C:\Users\Tboy\source\repos\shop\Shop.Domain\obj\Debug\netcoreapp3.1\Shop.Domain.csprojAssemblyReference.cache
+C:\Users\Tboy\source\repos\shop\Shop.Domain\obj\Debug\netcoreapp3.1\Shop.Domain.AssemblyInfoInputs.cache
+C:\Users\Tboy\source\repos\shop\Shop.Domain\obj\Debug\netcoreapp3.1\Shop.Domain.AssemblyInfo.cs
+C:\Users\Tboy\source\repos\shop\Shop.Domain\obj\Debug\netcoreapp3.1\Shop.Domain.dll
+C:\Users\Tboy\source\repos\shop\Shop.Domain\obj\Debug\netcoreapp3.1\Shop.Domain.pdb
+C:\Users\Tboy\source\repos\shop\Shop.Domain\bin\Debug\netcoreapp3.1\Shop.Domain.runtimeconfig.json
+C:\Users\Tboy\source\repos\shop\Shop.Domain\bin\Debug\netcoreapp3.1\Shop.Domain.runtimeconfig.dev.json
+C:\Users\Tboy\source\repos\shop\Shop.Domain\obj\Debug\netcoreapp3.1\Shop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Tboy\source\repos\shop\Shop.Domain\obj\Debug\netcoreapp3.1\Shop.Domain.genruntimeconfig.cache
